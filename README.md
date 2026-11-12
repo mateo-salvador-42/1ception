@@ -93,8 +93,3 @@ Docker volumes are managed by Docker and stored in Docker's internal storage (`/
 ### AI usage
 
 AI (Claude) was used to assist with debugging configuration issues (php-fpm pool settings, MariaDB bind-address, Docker secrets path), understanding Docker concepts (volumes, networks, secrets), and reviewing Dockerfile best practices. All generated content was reviewed, tested, and adapted manually.
-# 1nception
-# 1nception
-# 1nception
-# 1nception
-# 1nception
